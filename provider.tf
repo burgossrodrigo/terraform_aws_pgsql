@@ -13,3 +13,7 @@ provider "aws" {
   region  = "us-east-1"
   profile = "pgsql_admin"
 }
+
+
+//pJlbE7hdEnpx5p0rekPU
+//curso-aws-module-um.cf880msq8y91.us-east-1.rds.amazonaws.com
